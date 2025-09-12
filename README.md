@@ -1,2 +1,2 @@
-# MelvynFokuoh.github.io
+# melvynfokuoh.github.io
 Github PAGES repo
