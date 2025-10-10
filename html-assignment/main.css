@@ -1,0 +1,29 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+h1, h2, footer {
+    background-color: burlywood;
+}
+.site-title {
+    color: purple;
+}
+#my-image {
+    box-shadow: 0 0 2px 1px black;
+}
+.square-list {
+    list-style-type: square;
+}
+.hobby-list li:nth-child(odd) {
+    background-color: purple;
+}
+a {
+    text-decoration: none;
+}
+a {
+    background-color: green;
+    border: 1px solid black;
+}
+a:hover {
+    background-color: burlywood;
+}
